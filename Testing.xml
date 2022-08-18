@@ -5,6 +5,7 @@
 	<test name="Cucumber Tests" junit="true">
 		<classes>
 			<class name="cucumberframework.runner.MainRunner"/>
+			<class name="cucumberframework.runner.MainRunner2"/>
 		</classes>
 	</test>
 </suite>
